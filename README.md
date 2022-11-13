@@ -1,4 +1,6 @@
 # The road to becoming resourceful to my community has just begun.
+## Any help from anyone concerning my coding repositories,welcome am a free person who like collaborating with others to change life in communities but also bitter when there is unfairness and dishonesty.
+
 
 - 👋 Hi, I’m @chardso open source ,learning software engineering
 - 👀 I’m interested in ...
