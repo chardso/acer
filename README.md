@@ -1,4 +1,4 @@
-# - 👋 Hi, I’m @chardso open source ,learning software engineering
+# 👋 Hi, I’m @chardso open source ,learning software engineering
 ![](chardso/IMG_20221115_162001_031.jpg)
 - 👀 I’m interested in . collaborative learning..
 - 🌱 I’m currently learning ...software_engineering
