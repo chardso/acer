@@ -2,7 +2,7 @@
 - 👀 I’m interested in . collaborative learning..
 - 🌱 I’m currently learning ...software_engineering
 - 💞️ I’m looking to collaborate on ...a number of projects with anybody from anywhere around the globe 🌎🌎 coz I believe knowledge has no boundary,and you gain alot from sharing knowledge 
-- 📫 How to reach me ...
+- 📫 How to reach me ...[click 🌎🌎🌎🌎](https://lead.asknet.community/profiles/Wafela-Andrew/)
 
 <!---
 chardso/chardso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
