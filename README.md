@@ -7,7 +7,7 @@
 ** etc**
 
 
-#** Any help from anyone concerning my coding repositories,welcome am a free person who like collaborating with others to change life in communities but also bitter when there is unfairness and dishonesty.**
+# Any help from anyone concerning my coding repositories,welcome am a free person who like collaborating with others to change life in communities but also bitter when there is unfairness and dishonesty.
 
 
 - 👋 Hi, I’m @chardso open source ,learning software engineering
