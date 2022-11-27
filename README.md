@@ -1,19 +1,7 @@
-# let's join hands
-
-**.c**
-
-**.js**
-
-** etc**
-
-
-# Any help from anyone concerning my coding repositories,welcome am a free person who like collaborating with others to change life in communities but also bitter when there is unfairness and dishonesty.
-
-
-- 👋 Hi, I’m @chardso open source ,learning software engineering
-- 👀 I’m interested in ...
+# - 👋 Hi, I’m @chardso open source ,learning software engineering
+- 👀 I’m interested in . collaborative learning..
 - 🌱 I’m currently learning ...software_engineering
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...a number of projects with anybody from anywhere around the globe 🌎🌎 coz I believe knowledge has no boundary,and you gain alot from sharing knowledge 
 - 📫 How to reach me ...
 
 <!---
