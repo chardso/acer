@@ -35,3 +35,5 @@ You can click the Preview link to take a look at your changes.
 Not that every one knows to navigate to the code, therefore click on the links bellow to explore a project of your choice
 
 1.[Hello_world](/0x00-hello_world/)
+
+2.[variables_if_else_while](/0x01-variables_if_else_while/)
