@@ -20,6 +20,7 @@ chardso/chardso is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
+
 # "Hopes on backend, i am inspired by alx to always doing hard things"
 **Help me where necessary to achieve this milestone**
 # target
@@ -29,6 +30,11 @@ You can click the Preview link to take a look at your changes.
 # moto:
 
 **"Empowered by community to empower communities"**
+
+
+![](/Images/b9e81156-50e2-43bf-affe-3cba61c35a7c.png)
+
+
 
 # testimony
 
