@@ -37,7 +37,7 @@ Am an electronic hardware repair technician who has dealt with the electronic re
 ![](/Images/9e14bf67-a112-4e22-b978-46d75c131a4a.png) 
 
 **introduction of some hardware repair tools and materials to students of junior express vocational training school, for more about the school, click**
-
+https://github.com/chardso/JEVTS-ASKnet-local-expert-action-directory-LEAD
 
 ![](/Images/ea029296-1edb-44af-9393-bfd7fd4b3204.png)
 ![](/Images/aa7a6aab-84c8-45b0-86e8-554f4228d373.png)
