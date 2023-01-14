@@ -69,14 +69,10 @@ been looking for reasons why our communities in africa and other parts of the gl
 # languages and tools
 
 
-
-
-
 ![](/Images/IMG_20230112_070555_407.jpg) 
-
 # programming.
 
 ![](/Images/IMG_20230112_064825_192.jpg)
 
-# projects link.
+# Resources to c programming
 
