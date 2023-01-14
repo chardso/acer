@@ -76,3 +76,10 @@ been looking for reasons why our communities in africa and other parts of the gl
 
 # Resources to c programming
 
+
+
+
+| r0g Agency | ASKnet  |  BMZ   |  alx    |  YEF  |
+| :--------: | :------: | :-------|:------:|:-------:|
+
+
