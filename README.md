@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 # testimony
 
 Am an electronic hardware repair technician who has dealt with the electronic repair for agood number of years (about 20yrs down the road) .Currently volunteering in imparting repair skills to the students of a community vocational training school called Junior express vocational traing school,
-
+![](/Images/aa7a6aab-84c8-45b0-86e8-554f4228d373.png)
 ![](/Images/9e14bf67-a112-4e22-b978-46d75c131a4a.png) 
 
  been looking for reasons why our communities in africa and other parts of the globe are not developing, but after serious analysis over some period of time, i discovered the following;
