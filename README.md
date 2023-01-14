@@ -51,6 +51,9 @@ https://github.com/chardso/JEVTS-ASKnet-local-expert-action-directory-LEAD
 been looking for reasons why our communities in africa and other parts of the globe are not developing, but after serious analysis over some period of time, i discovered the following;
 - A number of the people believe age is a limitting factor to learning.
 - A certain percentage of the skilled people are selfish over sharing knowledge
+
+![](/Images/22243841-111c-4148-8af5-221c0ea1cf64.png)
+
 - Monentary values are put as the first priority to accord skills to the communities, i volunteer to become a change maker to these communities, however the global communities which values what i am doing , and are in position to support, the activities, through funding, tools, and gadgets such as computers, cameras etc are welcome
 
 # mission
