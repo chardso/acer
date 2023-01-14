@@ -81,5 +81,5 @@ been looking for reasons why our communities in africa and other parts of the gl
 
 | r0g Agency | ASKnet  |  BMZ   |  alx    |  YEF  |
 | :--------: | :------: | :-------|:------:|:-------:|
-|![](/Images/r0g_logo.png)|
+|![](/Images/r0g_logo.png)|![](/Images/asknet-logo.png)|
 
