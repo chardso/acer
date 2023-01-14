@@ -59,7 +59,7 @@ been looking for reasons why our communities in africa and other parts of the gl
 # mission
 **"To impart hardware repair skills and build hardware projects"**
 
-
+![](/Images/f43b856e-69ed-4438-bfa4-22cf1e98f3a8.png)
 
 # SDG's
 - sustainability
