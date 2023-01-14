@@ -30,13 +30,5 @@ You can click the Preview link to take a look at your changes.
 
 ![](/Images/IMG_20230112_064825_192.jpg)
 
-# projects
-## Note :
-Not that every one knows to navigate to the code, therefore click on the links bellow to explore a project of your choice
+# projects link.
 
-1.[Hello_world](/0x00-hello_world/)
-
-2.[variables_if_else_while](/0x01-variables_if_else_while/)
-
-3.[0x02-functions_nested_loops](/0x02-functions_nested_loops/)
-4.[0x03-debugging](/0x03-debugging/)
