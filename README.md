@@ -37,3 +37,5 @@ Not that every one knows to navigate to the code, therefore click on the links b
 1.[Hello_world](/0x00-hello_world/)
 
 2.[variables_if_else_while](/0x01-variables_if_else_while/)
+
+3.[0x02-functions_nested_loops](/0x02-functions_nested_loops/)
