@@ -39,3 +39,4 @@ Not that every one knows to navigate to the code, therefore click on the links b
 2.[variables_if_else_while](/0x01-variables_if_else_while/)
 
 3.[0x02-functions_nested_loops](/0x02-functions_nested_loops/)
+4.[0x03-debugging](/0x03-debugging/)
