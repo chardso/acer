@@ -82,4 +82,4 @@ been looking for reasons why our communities in africa and other parts of the gl
 | r0g Agency | ASKnet  |  BMZ   |  alx    |  YEF    |  OShw  | Ohm | GIG |
 | :--------: | :------: | :-------|:------:|:-------:|:------:|:---:|:----:|
 |![](/Images/r0g_logo.png)|![](/Images/asknet-logo.png)|![](/Images/founder_BMZ.jpg)|![](/Images/coollogo_com-197243325.png)|![](/Images/yef-logo.jpeg)|![](/Images/oshw-logo-400-px.png)|![](/Images/ohm-logo.png)|![](/Images/cropped-gig-logo-retina.png)|
-|[official website]()|[official website](https://asknet.community/)|[Official website](https://www.bmz.de/en)|[Officia website](https://www.alxafrica.com/)|[Official website](https://yef-uganda.org/who-we-are/)|[Official website](https://en.m.wikipedia.org/wiki/Open-source_hardware)|[Official website]()|
+|[official website]()|[official website](https://asknet.community/)|[Official website](https://www.bmz.de/en)|[Officia website](https://www.alxafrica.com/)|[Official website](https://yef-uganda.org/who-we-are/)|[Official website](https://en.m.wikipedia.org/wiki/Open-source_hardware)|[Official website](http://www.ohmtechsystems.com/)|
