@@ -75,9 +75,9 @@ been looking for reasons why our communities in africa and other parts of the gl
 ![](/Images/IMG_20230112_064825_192.jpg)
 
 # Credited patners
-My sincere credit goes to the eight patners who supported my journey and still doing the same without you, i wouldn't have acomplished some of my milestones of having positive impacts to my community, keep the fire burning, you are life changing agents.Any need to find out more info about these agents , please visit their official websites in the table bellow.
+My sincere credit goes to the eight patners who supported my journey and still doing the same,  without you, i wouldn't have acomplished some of my milestones of having positive impacts to my community, keep the fire burning, you are life changing agents.Any need to find out more info about these agents , please visit their official websites in the table bellow.
 
-        **Get empowered to empower**
+***Get empowered,  to empower***
 
 
 | r0g Agency | ASKnet  |  BMZ   |  alx    |  YEF    |  OShw  | Ohm | GIG |
