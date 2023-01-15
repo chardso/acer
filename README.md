@@ -79,7 +79,7 @@ been looking for reasons why our communities in africa and other parts of the gl
 
 
 
-| r0g Agency | ASKnet  |  BMZ   |  alx    |  YEF  |
-| :--------: | :------: | :-------|:------:|:-------:|
+| r0g Agency | ASKnet  |  BMZ   |  alx    |  YEF    |  OShw  | Ohm | GIG |
+| :--------: | :------: | :-------|:------:|:-------:|:------:|:---:|:----:|
 |![](/Images/r0g_logo.png)|![](/Images/asknet-logo.png)|![](/Images/founder_BMZ.jpg)|![](/Images/coollogo_com-197243325.png)|![](/Images/yef-logo.jpeg)|
 
