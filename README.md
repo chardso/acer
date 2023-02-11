@@ -27,8 +27,11 @@ You can click the Preview link to take a look at your changes.
 
 # "Hopes on backend, i am inspired by alx to always doing hard things"
 **Help me where necessary to achieve this milestone**
-# target
+
+
+
 **Looking forward to impart skills achieved from this stage into the young generation of africa and the globe at large**
+
 ![](/Images/6d092486-fb8e-4944-898b-4bc1dcc79134.png)
 
 # moto:
