@@ -104,3 +104,6 @@ My sincere credit goes to the eight patners who supported my journey and still d
 | :--------: | :------: | :-------|:------:|:-------:|:------:|:---:|:----:|
 |![](/Images/r0g_logo.png)|![](/Images/asknet-logo.png)|![](/Images/founder_BMZ.jpg)|![](/Images/coollogo_com-197243325.png)|![](/Images/yef-logo.jpeg)|![](/Images/oshw-logo-400-px.png)|![](/Images/ohm-logo.png)|![](/Images/cropped-gig-logo-retina.png)|
 |[Official website](https://openculture.agency/team/)|[Official website](https://asknet.community/)|[Official website](https://www.bmz.de/en)|[Officia website](https://www.alxafrica.com/)|[Official website](https://yef-uganda.org/who-we-are/)|[Official website](https://en.m.wikipedia.org/wiki/Open-source_hardware)|[Official website](http://www.ohmtechsystems.com/)|[Official website](https://globalinnovationgathering.org/)|
+
+My YouTube channel
+https://youtube.com/@Dr46
