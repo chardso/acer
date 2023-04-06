@@ -83,8 +83,6 @@ been looking for reasons why our communities in africa and other parts of the gl
 
 **learn from the pictures.**
 
-
-
 ## Why learn software engineering!
 ### targets for taking the course.
 <li>Build custom open-source projects to help improve technology and communities</li>
