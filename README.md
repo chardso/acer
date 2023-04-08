@@ -68,9 +68,20 @@ been looking for reasons why our communities in africa and other parts of the gl
 
 ![](/Images/f43b856e-69ed-4438-bfa4-22cf1e98f3a8.png)
 
-# SDG's
-- sustainability
-- skilling to support small scale industries.
+<h1>Project SDG's</h1>
+
+<h2>SDG 1 No poverty</h2>
+
+***End poverty in all its forms everywhere.***
+
+<h3>My project or innovation has positive impact towards this goal in the following way:</h3>
+
+- It allows people affected by poverty to work as  electronic technicians or otherwise secures their livelihood.
+- It is both attainable for people with low economic capital, possibly living in poor rural areas, and raises their living standards.
+
+<h5>HOW?</h5>
+
+**learn from the pictures.**
 
 ## Why learn software engineering!
 ### targets for taking the course.
