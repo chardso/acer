@@ -1,3 +1,5 @@
+[![CI](https://github.com/chardso/acer/actions/workflows/main.yml/badge.svg)](https://github.com/chardso/acer/actions/workflows/main.yml)
+
 # 👋 Hi, I’m @chardso open source ,learning software engineering
 
 
